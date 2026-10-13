@@ -1,6 +1,6 @@
 # content-gap-audit
 
-A Claude skill that reads a company's sitemap and shows which kinds of AI content they publish too much of, and which kinds they barely touch.
+A Claude skill that reads a company's sitemap and shows which kinds of content types they publish too much of, and which kinds they barely touch.
 
 It's built for IT services, consultancies and SaaS companies that compete on AI and data content marketing.
 
