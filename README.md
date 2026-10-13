@@ -29,7 +29,7 @@ Their sitemaps were pulled, the content URLs extracted, and every AI-related pie
 
 Across every audit run so far, the same pattern shows up:
 
-> **Capability / showcase content makes up roughly 70–90% of each company's AI content. AI Literacy, AI Readiness and Data Readiness sit at or near zero.**
+> **Capability / showcase content makes up roughly 70–90% of each company's content pillars. AI Literacy, AI Readiness and Data Readiness sit at or near zero.**
 
 Vendors are writing for buyers who are already comparing options. Almost nobody is writing for buyers who are still figuring out whether AI is for them, and that's the white space.
 
